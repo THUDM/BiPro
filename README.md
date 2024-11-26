@@ -22,6 +22,9 @@ Script for Direct Generation:
 
 ``poem_gpt4.ipynb`` is the code for getting few shot GPT-4 generations through GPT-4 API. Results of other baselines are achieved manually through webpage.
 
+Online Inference:
+https://chatglm.cn/main/gdetail/672c837c8ba8cf3453de646c?lang=zh
+
 This paper is submitted and reviewed by ACL Rolling Cycle August 2024. (Meta Review: 4/5)
 Arxiv is uploaded after the peer review: https://arxiv.org/abs/2411.13237
 
