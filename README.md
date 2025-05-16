@@ -25,6 +25,5 @@ Script for Direct Generation:
 Online Inference:
 https://chatglm.cn/main/gdetail/672c837c8ba8cf3453de646c?lang=zh
 
-This paper is submitted and reviewed by ACL Rolling Cycle August 2024. (Meta Review: 4/5)
-Arxiv is uploaded after the peer review: https://arxiv.org/abs/2411.13237
+This paper is accepted to ACL 2025 main. 
 
