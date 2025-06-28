@@ -27,3 +27,5 @@ https://chatglm.cn/main/gdetail/672c837c8ba8cf3453de646c?lang=zh
 
 This paper is accepted to ACL 2025 main. 
 
+Arxiv: https://arxiv.org/abs/2411.13237
+
